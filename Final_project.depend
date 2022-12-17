@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1671100958 source:c:\ian\code\programing_design (1)\final_project\main.c
+	<stdio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
+1671101031 source:c:\ian\code\programing_design (1)\final_project\test_fucs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
